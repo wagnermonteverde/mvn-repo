@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata modelVersion="1.1.0">
-  <groupId>net.sf.cssbox</groupId>
+  <groupId>cssbox.ews.rnp</groupId>
   <artifactId>jstyleparser</artifactId>
   <version>1.22-SNAPSHOT</version>
   <versioning>
     <snapshot>
       <localCopy>true</localCopy>
     </snapshot>
-    <lastUpdated>20160201233414</lastUpdated>
+    <lastUpdated>20160202000939</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
         <value>1.22-SNAPSHOT</value>
-        <updated>20160201233414</updated>
+        <updated>20160202000939</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
         <value>1.22-SNAPSHOT</value>
-        <updated>20160201233414</updated>
+        <updated>20160202000939</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>

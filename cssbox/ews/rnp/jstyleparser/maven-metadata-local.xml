@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>net.sf.cssbox</groupId>
+  <groupId>cssbox.ews.rnp</groupId>
   <artifactId>jstyleparser</artifactId>
   <versioning>
     <versions>
       <version>1.22-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20160201233414</lastUpdated>
+    <lastUpdated>20160202000939</lastUpdated>
   </versioning>
 </metadata>
