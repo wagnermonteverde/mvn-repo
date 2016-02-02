@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>cssbox.ews.rnp</groupId>
+  <groupId>net.sf.cssbox.ews</groupId>
   <artifactId>cssbox</artifactId>
   <versioning>
-    <release>4.11-ews</release>
     <versions>
-      <version>4.11-ews</version>
+      <version>4.11-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20160202011035</lastUpdated>
+    <lastUpdated>20160202101345</lastUpdated>
   </versioning>
 </metadata>
